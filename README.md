@@ -3,6 +3,10 @@
 ## 📌 Project Overview
 This project demonstrates an end-to-end data analytics workflow using a realistic "dirty" cafe sales dataset. The goal of this project is to clean anomalous transaction records, model the data in a relational database, and build an interactive dashboard to uncover actionable business insights regarding revenue and product performance.
 
+## 📊 Data Source
+The raw dataset used in this project is sourced from Kaggle. You can access the original data here:
+* **[Dirty Cafe Sales Dataset on Kaggle](https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training)**
+
 ## 🛠️ Tech Stack Used
 * **Python (Pandas, NumPy):** Data manipulation, handling missing/anomalous values.
 * **SQL (MySQL):** Data storage, schema creation, and advanced data extraction (Window Functions, Aggregations).
